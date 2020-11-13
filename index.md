@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to AnonymusOax pages
+## Bienvenido a la página oficial de AnonymusOax
 
-You can use the [editor on GitHub](https://github.com/AnonymusOax/TrueFull/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En este espacio encontrarás la información que buscas acerca de políticos, académicos, funcionarios, etc. que están involucrados en actividades de corrupción y que bajo una máscara de bondad engañan a la población y a las personas para enriquecerse ilícitamente.
+
+También podrás realizar denuncias y enviar información anónima a nosotros. AnonymusOax cargará con la total responsabilidad de la publicación de información, siempre protegiendo a nuestras fuentes.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### UABJO, la universidad más corrupta
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
